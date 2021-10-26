@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c4abe24-6ec4-4f0e-8e93-0958671914f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RoughWork/PracSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/Hook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/Login_steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/Profile_steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/Signup_steps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/Login/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/Profile/profile.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/Signup/signup.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Login_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Profile_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObject/Signup_page.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ToToCo/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/ToToCo/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/ToToCo/TestClsSF11.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
